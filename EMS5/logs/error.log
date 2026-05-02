@@ -1,0 +1,620 @@
+[25-Feb-2026 17:16:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:16:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:16:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:16:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in C:\xampp\htdocs\EMS5\admin-analytics.php:28
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\admin-analytics.php(28): mysqli->query('SELECT status, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\admin-analytics.php on line 28
+[25-Feb-2026 17:16:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:16:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:16:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:16:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:16:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:16:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:16:31 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in C:\xampp\htdocs\EMS5\admin-analytics.php:28
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\admin-analytics.php(28): mysqli->query('SELECT status, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\admin-analytics.php on line 28
+[25-Feb-2026 17:16:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:16:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:16:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:16:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:16:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:16:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:16:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:16:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:16:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:16:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'status' in 'field list' in C:\xampp\htdocs\EMS5\admin-analytics.php:28
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\admin-analytics.php(28): mysqli->query('SELECT status, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\admin-analytics.php on line 28
+[25-Feb-2026 17:21:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:21:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:21:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:21:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:21:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:21:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:22:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:22:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:22:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:22:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:22:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:22:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:22:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:22:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:22:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:22:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:22:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:22:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:23:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:23:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:23:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:23:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:23:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:23:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:23:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:23:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:23:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:23:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:23:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:23:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:23:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:23:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:23:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:23:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:23:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:23:55 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:23:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:23:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:23:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:24:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:24:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:24:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:24:01 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:24:01 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:24:01 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:24:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:24:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:24:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:24:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:24:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:24:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:24:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:24:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:24:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:26:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:26:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:26:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:26:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:26:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:26:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:26:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:26:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:26:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:26:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`event_management_system`.`registrations`, CONSTRAINT `registrations_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\EMS5\register_for_event.php:39
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\register_for_event.php(39): mysqli_query(Object(mysqli), 'INSERT INTO reg...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\register_for_event.php on line 39
+[25-Feb-2026 17:26:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:26:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:26:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:26:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`event_management_system`.`registrations`, CONSTRAINT `registrations_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\EMS5\register_for_event.php:39
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\register_for_event.php(39): mysqli_query(Object(mysqli), 'INSERT INTO reg...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\register_for_event.php on line 39
+[25-Feb-2026 17:26:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:26:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:26:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:26:19 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`event_management_system`.`registrations`, CONSTRAINT `registrations_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\EMS5\register_for_event.php:39
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\register_for_event.php(39): mysqli_query(Object(mysqli), 'INSERT INTO reg...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\register_for_event.php on line 39
+[25-Feb-2026 17:26:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:26:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:26:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:26:21 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`event_management_system`.`registrations`, CONSTRAINT `registrations_ibfk_2` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`) ON DELETE CASCADE) in C:\xampp\htdocs\EMS5\register_for_event.php:39
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\register_for_event.php(39): mysqli_query(Object(mysqli), 'INSERT INTO reg...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\register_for_event.php on line 39
+[25-Feb-2026 17:29:40 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:29:40 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:29:40 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:29:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:29:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:29:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:29:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:29:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:29:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:29:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:29:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:29:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:30:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:30:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:30:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:30:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:30:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:30:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:30:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:30:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:30:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:30:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:30:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:30:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:30:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:30:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:30:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:30:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:30:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:30:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:31:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:31:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:31:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:31:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:31:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:31:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:31:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:31:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:31:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:06 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:09 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:32:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:32:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:32:48 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:33:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:33:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:33:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:36:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:36:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:36:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:36:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:36:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:36:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:36:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:36:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:36:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:36:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:36:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:36:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:38:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:38:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:38:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:38:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:38:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:38:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:38:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:38:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:38:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:38:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:38:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:38:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:38:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:38:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:38:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:38:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:38:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:38:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:39:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:39:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:39:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:39:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:39:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:39:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:39:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:39:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:39:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:39:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:39:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:39:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:39:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:39:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:39:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:39:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:39:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:39:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:40:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:40:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:40:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:41:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:41:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:41:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[25-Feb-2026 17:41:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[25-Feb-2026 17:41:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[25-Feb-2026 17:41:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:07:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:07:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:07:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:07:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price' in 'field list' in C:\xampp\htdocs\EMS5\index.php:8
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\index.php(8): mysqli_query(Object(mysqli), 'SELECT id, titl...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\index.php on line 8
+[11-Mar-2026 16:10:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:10:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:10:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:10:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:10:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:10:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:10:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:10:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:10:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:38:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:38:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:38:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:30 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price' in 'field list' in C:\xampp\htdocs\EMS5\events.php:30
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\events.php(30): mysqli_query(Object(mysqli), 'SELECT id, titl...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\events.php on line 30
+[11-Mar-2026 16:39:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 35
+[11-Mar-2026 16:39:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 36
+[11-Mar-2026 16:39:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\EMS5\config.php on line 37
+[11-Mar-2026 16:39:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'price' in 'field list' in C:\xampp\htdocs\EMS5\events.php:30
+Stack trace:
+#0 C:\xampp\htdocs\EMS5\events.php(30): mysqli_query(Object(mysqli), 'SELECT id, titl...')
+#1 {main}
+  thrown in C:\xampp\htdocs\EMS5\events.php on line 30
+[12-Mar-2026 17:28:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:28:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:28:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:28:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:28:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:28:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:28:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:28:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:28:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:28:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:28:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:28:46 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:28:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:28:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:28:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:28:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:28:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:28:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:28:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:28:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:28:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:29:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:29:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:29:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:29:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:29:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:29:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:29:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:29:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:29:15 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:29:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:29:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:29:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:29:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:29:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:29:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:29:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:29:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:29:20 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:29:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:29:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:29:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:30:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:30:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:30:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:30:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:30:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:30:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:30:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:30:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:30:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:30:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:30:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:30:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:30:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:30:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:30:58 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:31:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:31:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:31:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:31:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:31:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:31:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:32:22 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:32:22 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:32:22 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:32:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:32:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:32:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:32:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:32:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:32:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:32:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:32:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:32:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:32:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:32:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:32:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:32:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:32:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:32:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:32:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:32:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:32:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:33:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:33:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:33:03 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:33:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:33:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:33:05 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:33:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:33:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:33:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:23 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:25 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:27 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:32 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:38 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:36:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:36:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:36:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:37:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:37:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:37:12 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:37:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:37:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:37:13 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:37:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:37:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:37:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:37:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:37:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:37:14 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:37:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:37:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:37:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:37:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:37:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:37:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:26 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:28 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:35 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:37 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xamppp\htdocs\EMS5\customers.php on line 3
+[12-Mar-2026 17:43:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'r.registration_date' in 'field list' in C:\xamppp\htdocs\EMS5\customers.php:64
+Stack trace:
+#0 C:\xamppp\htdocs\EMS5\customers.php(64): mysqli->query('\n    SELECT \n  ...')
+#1 {main}
+  thrown in C:\xamppp\htdocs\EMS5\customers.php on line 64
+[12-Mar-2026 17:43:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:39 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xamppp\htdocs\EMS5\customers.php on line 3
+[12-Mar-2026 17:43:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'r.registration_date' in 'field list' in C:\xamppp\htdocs\EMS5\customers.php:64
+Stack trace:
+#0 C:\xamppp\htdocs\EMS5\customers.php(64): mysqli->query('\n    SELECT \n  ...')
+#1 {main}
+  thrown in C:\xamppp\htdocs\EMS5\customers.php on line 64
+[12-Mar-2026 17:43:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:41 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xamppp\htdocs\EMS5\customers.php on line 3
+[12-Mar-2026 17:43:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'r.registration_date' in 'field list' in C:\xamppp\htdocs\EMS5\customers.php:64
+Stack trace:
+#0 C:\xamppp\htdocs\EMS5\customers.php(64): mysqli->query('\n    SELECT \n  ...')
+#1 {main}
+  thrown in C:\xamppp\htdocs\EMS5\customers.php on line 64
+[12-Mar-2026 17:43:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:43:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:43:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:43:56 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:04 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:31 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:34 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:42 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:47 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:51 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:54 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:44:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:44:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:44:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:17 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:21 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:36 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:43 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:45 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:49 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:57 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:45:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:45:59 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:45:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xamppp\htdocs\EMS5\customers.php on line 3
+[12-Mar-2026 17:45:59 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'r.registration_date' in 'field list' in C:\xamppp\htdocs\EMS5\customers.php:64
+Stack trace:
+#0 C:\xamppp\htdocs\EMS5\customers.php(64): mysqli->query('\n    SELECT \n  ...')
+#1 {main}
+  thrown in C:\xamppp\htdocs\EMS5\customers.php on line 64
+[12-Mar-2026 17:46:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:46:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:46:02 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
+[12-Mar-2026 17:46:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 35
+[12-Mar-2026 17:46:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 36
+[12-Mar-2026 17:46:19 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xamppp\htdocs\EMS5\config.php on line 37
